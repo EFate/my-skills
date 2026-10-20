@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e8a3f404-7b37-4407-b9dd-3e1ba1b4e0e5",
+  "path": "diagnosing-superpowers",
+  "path_key": "diagnosing-superpowers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/obra/superpowers",
+    "subpath": "skills\\diagnosing-superpowers",
+    "branch": null
+  }
+}
