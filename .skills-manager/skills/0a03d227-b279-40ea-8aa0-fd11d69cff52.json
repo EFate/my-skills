@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a03d227-b279-40ea-8aa0-fd11d69cff52",
+  "path": "p7",
+  "path_key": "p7",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/tanweai/pua",
+    "subpath": "skills\\p7",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1604736d-af9e-468d-86dc-a9fead917824",
+  "path": "canvas-design",
+  "path_key": "canvas-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/skills",
+    "subpath": "skills\\canvas-design",
+    "branch": null
+  }
+}
